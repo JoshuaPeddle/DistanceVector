@@ -49,3 +49,10 @@ Open terminal extracted folder  (~/"userdownloaddirectory"/DistanceVector-main/)
 `python3 -m pip install -r requirements.txt`
 
 `python3 main.py`
+
+<H2> Sample Output </H2>
+
+![image](https://user-images.githubusercontent.com/37007232/140837718-d0138368-825e-44e2-b2d1-076b06a30e41.png)
+![image](https://user-images.githubusercontent.com/37007232/140837732-23965ed9-3d8e-4cde-b0e1-cd77d17c4b98.png)
+![image](https://user-images.githubusercontent.com/37007232/140837746-0a3e9ab8-5776-4096-b227-6e13a40e16a0.png)
+
