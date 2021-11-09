@@ -1,5 +1,8 @@
 # DistanceVector
 Python3 program to compute distance vector tables
+
+Optional dependancy: If you have matplotlib installed the program will detect and display a visual repersentation of the graph
+`python -m pip install -U matplotlib`
  
  <H1>Usage:</H1>
  
