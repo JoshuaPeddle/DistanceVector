@@ -7,7 +7,7 @@ Python3 program to compute distance vector tables
  
  (Node1, Node2, Weight)
   
-![image](https://user-images.githubusercontent.com/37007232/140833940-92d615ca-331a-4d87-a4bd-16fddd9b4de7.png)
+![image](https://user-images.githubusercontent.com/37007232/140837532-cf7fabf4-c91f-497f-8444-4822f4ab2418.png)
 
 <H2> Running in python3 without venv </H2>
 
